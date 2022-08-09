@@ -4,7 +4,8 @@ static variable belongs to class not to object ... we can understand it as class
 & its copy is share to all object which contains same address so based on condition its value can be found... 
 if it got increment by n. its value will will get incremented by n for all copy of object at that time and same for other like -, *, / 
 
-it has global scope & we can even get it using classname::variable name if it is public.. but when it is private we can access with member function only
+it has global scope & we can even get it using classname::variable name if it is public..
+but when it is private we can access with member function only
 */
 
 
