@@ -53,7 +53,7 @@ int main(){
     a.showBalance();
     cout<<"\n Withdraw amount \n";
     a.withdraw(300);
-   cout<<"\nShow Balance \n";
-   a.showBalance();
+    cout<<"\nShow Balance \n";
+    a.showBalance();
     return 0;
 }
